@@ -18,7 +18,7 @@ This project includes:
 
 ## 🌍 Live Demo
 
-https://harshithaposa27.github.io/To-Do-List-Local-Storage/
+ https://harshithaposa27.github.io/To-Do-List/
 
 ## 📂 Project Structure
 
